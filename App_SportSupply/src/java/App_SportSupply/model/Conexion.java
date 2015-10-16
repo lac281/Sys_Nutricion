@@ -14,11 +14,11 @@ import java.sql.SQLException;
  */
 public class Conexion {
 
-    public static final String USERNAME = "agroprio";
-    public static final String PASSWORD = "agr0p3";
+    public static final String USERNAME = "";
+    public static final String PASSWORD = "";
     public static final String HOST = "localhost";
     public static final String PORT = "3306";
-    public static final String DATABASE = "agrodb";
+    public static final String DATABASE = "";
     public static final String CLASSNAME = "com.mysql.jdbc.Driver";
     public static final String URL = "jdbc:mysql://"+HOST+":"+PORT+"/"+DATABASE;
 
