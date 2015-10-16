@@ -36,4 +36,4 @@ public class Conexion {
             System.out.println("Error" + e);
         }
     }//Fin del constructor
-}
+}//Fin de la clase
